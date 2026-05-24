@@ -161,7 +161,7 @@
         <p>10分: 1,000円<br>20分: 2,000円<br>40分: 4,000円</p>
       </div>
     </div>
-    <p style="margin-top:8px;color:var(--muted)">支払いは銀行振込のみ。振込先は申込後メールでご案内いたします。その後、具体的な日時について決めさせていただきます。</p>
+    <p style="margin-top:8px;color:var(--muted)">お支払いは先払い銀行振込のみ。振込先は申込後メールでご案内いたします。その後、具体的な日時について決めさせていただきます。</p>
   </section>
 
   <section class="section" id="online-en" aria-label="Online Rehabilitation English" style="display:none">
@@ -185,12 +185,12 @@
     <div class="grid-2">
       <div class="card">
         <strong>銀行振り込み</strong>
-        <p>お支払いは銀行振込のみです。申込後、銀行振込先情報をメールでご案内します。</p>
+        <p>お支払いは先払い銀行振込のみです。申込後、銀行振込先情報をメールでご案内します。</p>
         <p>振込手数料は別途ご負担ください。振込確認後、サービスを提供します。</p>
       </div>
       <div class="card">
-        <strong>メール相談のみも承ります。（文字数課金）</strong>
-        <p>100文字分: 100円<br>400文字分: 300円<br>1000文字以上: 500円</p>
+        <strong>メール相談のみも承ります。</strong>
+        <p>1回のやりとり: 500円<br>2回のやりとり: 1000円<br>5回以上のやりとり: 5000円</p>
       </div>
     </div>
     <p class="price" style="margin-top:8px">オンラインでの料金は上記参照。日時はご相談のうえ決定します。</p>
